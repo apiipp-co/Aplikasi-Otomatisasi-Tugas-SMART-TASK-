@@ -8,9 +8,9 @@ Pilihan lainnya adalah kalender, di mana Anda bisa melihat semua tugas dalam tam
 
 Teknologi yang Digunakan
 
-AndroidX
-Calligraphy untuk font
-Butterknife untuk binding ID
-Room Database
-Glide
-Calendar View
+1. AndroidX
+2. Calligraphy untuk font
+3. Butterknife untuk binding ID
+4. Room Database
+5. Glide
+6. Calendar View
